@@ -6,8 +6,8 @@
 
 | Número | Nome |
 |--------|------|
-|  num1  | nome1 |
-|  num2  | nome2 |
+|  20190800  | Rafael Santos|
+|  2019????  | nome2|
 
 ## Enquadramento
 (substituir todo o texto pelo vosso) \
@@ -40,9 +40,3 @@ Texto descritivo
 - Indica as alterações que decorreram das ações (ex: o pedido é guardado)
 - Podem escrever NA se não existirem pós-condições.
 
-
-## Referências:
-(substituir todo o texto pelo vosso) \
-Usar a norma APA. Para o caso de sites podem usar: \
-[1] Autor, A.A. (2000). Título do documento. Acedido em: dia, mês, ano, em: URL. \
-(Ano/autor podem ser removidos se não fizerem sentido para o site, o resto é obrigatório)
