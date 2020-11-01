@@ -7,7 +7,6 @@ A reciclagem das empresas
 | Número | Nome |
 |--------|------|
 |  20190800  | Rafael Santos|
-|  2019????  | nome2|
 
 ## Enquadramento
 Este projeto consiste numa empresa que ajuda pequenas, medias e grandes empresas privadas a fazer reciclagem nos seus establecimentos de trabalho. \
@@ -49,7 +48,7 @@ NA
 
 ### 3º Caso
 **Descrição:** \
-O ultimo caso seria ter uma lista de centrais como por exemplo SIMAR, ou empresas que diariamente fazem a recolha do lixo por toda Lisboa e arredores, e ter forma que cada vez que haja x recolhas num dia em varias empresas que no final haja uma entrega realmente para entregar este lixo e o mesmo ser reciclado. \
+O ultimo caso seria ter uma lista de centrais como por exemplo SIMAR, ou empresas que diariamente fazem a recolha do lixo por toda Lisboa e arredores, e cada vez que haja x recolhas num dia em varias empresas, que entao no final haja uma entrega realmente para entregar este lixo e o mesmo ser reciclado. \
 
 **Pré-condições:**
 - Teriamos de ter nao uma tabela de clientes mas sim uma tabela com algumas destas empresas em diferentes sitios para que seja facil gerir o lixo e que este seja entregue no final de um dia de recolhas a estas empresas. \
@@ -57,6 +56,7 @@ O ultimo caso seria ter uma lista de centrais como por exemplo SIMAR, ou empresa
 **Passo a passo:**
 1. Na aplicaçao  neste caso em ambiente admin, poderiamos ver todas as recolhas que foram feitas num certo dia e na ultima recolha de todas do dia, seria feito um registo de entrega para uma destas empresas que iria reciclar este lixo todo. \
 2. Essa entrega quando feita, iria ser confirmada e mais tarde mostrada na aplicaçao e atualizada na base de dados. \
+3. Apenas seria algo que seria visto em admin ou admistrador, porque estas empresas nao teriam de se preocupar com a entrega do lixo, apenas asseguramos que o seu lixo vai ser reciclado. \
 
 **Pós-condições:**
 NA
